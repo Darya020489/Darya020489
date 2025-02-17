@@ -1,4 +1,4 @@
-# Hi there I'm Dasha!<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="" width="100" height="100"/>
+# Hi there I'm Dasha!<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="" width="120" height="120"/>
 
 ### I`m a frontend developer (React.js/React Native, Node.js)
 
@@ -106,7 +106,7 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShD9RN6fU09L0V5rB6Rhdr97BjuyG4FAbuiNGKxVUs9PXXCERzBPPg4BZwtH2olzJTeOU&usqp=CAU"
+        src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png"
         alt="expressjs"
         width="40"
         height="40"
