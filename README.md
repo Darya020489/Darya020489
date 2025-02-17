@@ -1,9 +1,4 @@
-# Hi there I'm Dasha!<img
-
-src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"
-alt=""
-height="65"
-/>
+# Hi there I'm Dasha!<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="" height="65"/>
 
 ### I`m a frontend developer (React.js/React Native, Node.js)
 
@@ -111,7 +106,7 @@ height="65"
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img
-        src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShD9RN6fU09L0V5rB6Rhdr97BjuyG4FAbuiNGKxVUs9PXXCERzBPPg4BZwtH2olzJTeOU&usqp=CAU"
         alt="expressjs"
         width="40"
         height="40"
